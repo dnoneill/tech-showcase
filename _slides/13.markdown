@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Questions?"
+---
+
+## Thank you!
+
+### Links:
+* [https://github.com/ncsu-libraries/annona](https://github.com/ncsu-libraries/annona)
+* [https://ncsu-libraries.github.io/annona/](https://ncsu-libraries.github.io/annona/)
+* [https://github.com/IIIF/awesome-iiif#annotations](https://github.com/IIIF/awesome-iiif#annotations)
+### Contact Info:
+* Email: doneill@ncsu.edu
+* Twitter: [niqui_o](https://twitter.com/niqui_o)
+* GitHub: [dnoneill](https://github.com/dnoneill)

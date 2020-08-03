@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Opportunities"
+title:  "What is IIIF?"
 ---
-<div markdown="1" style="width: 45%; position: fixed;">
-
-* All Wikipedia Commons images can be served as IIIF images
-* WikiData has 169,141 entries with IIIF manifests listed
-* All [ContentDM images](https://researchworks.oclc.org/iiif-explorer/) (around 12,991,905 objects) are avaliable in IIIF format
-* [Biblissima](https://iiif.biblissima.fr/collections/) ~65,000 digitized manuscripts and rare books 
-* Wellcome Library
-* Numerous instutions including NC State University Libraries and Duke
-</div>
-<iframe style="float:right; width: 50%; height: 80vh; position: relative;" src="https://dnoneill.github.io/annotate/getIIIFresources/"></iframe>
+“The International Image Interoperability Framework (IIIF) is a set of shared application programming interface (API) specifications for interoperable functionality in digital image repositories. The IIIF is comprised of and driven by a community of libraries, museums, archives, software companies, and other organizations working together to create, test, refine, implement and promote the IIIF specifications. Using JSON-LD, linked data, and standard W3C web protocols such as Web Annotation, IIIF makes it easy to parse and share digital image data, migrate across technology systems, and provide enhanced image access for scholars and researchers. In short, IIIF enables better, faster and cheaper image delivery. It lets you leverage interoperability and the fabric of the Web to access new possibilities and new users for your image-based resources, while reducing long term maintenance and technological lock in. IIIF gives users a rich set of baseline functionality for viewing, zooming, and assembling the best mix of resources and tools to view, compare, manipulate and work with images on the Web, an experience made portable–shareable, citable, and embeddable.”
+<style>
+.reveal h2 {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+</style>

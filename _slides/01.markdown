@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Web annotations: Lowering barriers to entry'
+title: 'Annona'
 ---
 
 ## Niqui O'Neill

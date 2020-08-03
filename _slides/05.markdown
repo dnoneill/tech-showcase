@@ -4,6 +4,7 @@ type: script
 title:  "Existing Examples"
 ---
 <section>
+<h2>Existing Technologies</h2>
 <video controls="">
   <source src="{{site.baseurl}}/videos/otherexamples.m4v" type="video/mp4">
 </video>
