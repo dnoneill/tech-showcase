@@ -5,10 +5,15 @@ title:  "Questions?"
 
 ## Thank you!
 
-### Links:
-* [https://github.com/ncsu-libraries/annona](https://github.com/ncsu-libraries/annona)
-* [https://ncsu-libraries.github.io/annona/](https://ncsu-libraries.github.io/annona/)
-* [https://github.com/IIIF/awesome-iiif#annotations](https://github.com/IIIF/awesome-iiif#annotations)
+### Project Links:
+* [Annona GitHub Repo](https://github.com/ncsu-libraries/annona)
+* [Annona Docs](https://ncsu-libraries.github.io/annona/)
+
+### Helpful Links:
+* [VueJS](https://v1.vuejs.org/guide/)
+* [Awesome IIIF](https://github.com/IIIF/
+awesome-iiif#annotations)
+
 ### Contact Info:
 * Email: doneill@ncsu.edu
 * Twitter: [niqui_o](https://twitter.com/niqui_o)
